@@ -48,19 +48,6 @@ I'm currently a Master's student in Computer Science at the University of Passau
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=divyankshah&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=divyankshah&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyankshah&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 | **Domain** | **Technologies** |
