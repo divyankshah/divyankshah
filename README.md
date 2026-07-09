@@ -68,12 +68,3 @@ I'm currently a Master's student in Computer Science at the University of Passau
 <img src="https://skillicons.dev/icons?i=docker,git,maven,githubactions" alt="Docker, Git, Maven, GitHub Actions" />
 
 <sub>Also working with: REST APIs, Microservices, NLP, Explainable AI, Dense Passage Retrieval, RAG fundamentals</sub>
-
----
-
-### 🎓 Education & Certifications
-
-* **M.Sc. Computer Science**, University of Passau _(Sep 2024 - Present)_
-* **B.E. Computer Science**, Savitribai Phule Pune University _(Graduated May 2020)_
-* **LLM Scaling Masterclass**, attended course covering attention mechanisms, inference optimization, memory management, and quantization-aware training _(2025)_
-* **200-Hour Yoga Teacher Certification (RYS 200)**, Raj Yoga School _(2023)_
