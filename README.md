@@ -47,14 +47,27 @@ I'm currently a Master's student in Computer Science at the University of Passau
 
 ### 🛠️ Tech Stack
 
-| **Domain** | **Technologies** |
-|:-----------------|:-----------------|
-| **Languages** | Java, TypeScript, JavaScript, Python, SQL |
-| **Backend** | Spring Boot, Node.js, Hibernate, REST APIs, Microservices |
-| **Frontend** | React, TypeScript |
-| **Cloud & Data** | AWS (ECS, Lambda, EC2, S3), PostgreSQL, Redis, Apache Kafka |
-| **DevOps & Tools** | Docker, Git, Maven, CI/CD |
-| **ML / AI** | NLP, Explainable AI, Dense Passage Retrieval, RAG fundamentals |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,sql" alt="Java, TypeScript, JavaScript, Python, SQL" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate" alt="Spring Boot, Node.js, Hibernate" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts" alt="React, TypeScript" />
+
+**Cloud & Data**
+
+<img src="https://skillicons.dev/icons?i=aws,postgres,redis,kafka" alt="AWS, PostgreSQL, Redis, Apache Kafka" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,maven,githubactions" alt="Docker, Git, Maven, GitHub Actions" />
+
+<sub>Also working with: REST APIs, Microservices, NLP, Explainable AI, Dense Passage Retrieval, RAG fundamentals</sub>
 
 ---
 
