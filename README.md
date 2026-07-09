@@ -25,9 +25,6 @@
     <a href="https://linkedin.com/in/divyankshah21">
       <img src="https://img.shields.io/badge/LinkedIn-Divyank%20Shah-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/divyankshah">
-      <img src="https://img.shields.io/github/followers/divyankshah?label=Followers&style=flat&logo=github" alt="Followers" />
-    </a>
   </p>
 </div>
 
@@ -35,7 +32,7 @@
 
 ### 🚀 About Me
 
-I'm an adaptable, curious engineer who likes turning ambiguous problems into software that actually ships. Over 4.5+ years as a full-stack developer, I've built scalable mobile and web solutions for enterprise platforms in banking, retirement, and insurance — including large migration and redesign efforts delivered at speed, without breaking what already worked for millions of users.
+I'm an adaptable, curious engineer who likes turning ambiguous problems into software that actually ships. Over 4.5+ years as a full-stack developer, I've built scalable mobile and web solutions for enterprise platforms in banking, retirement, and insurance - including large migration and redesign efforts delivered at speed, without breaking what already worked for millions of users.
 
 I'm currently a Master's student in Computer Science at the University of Passau, using the time to go deeper into system design, cloud architecture, and where AI fits into how we build software next.
 
