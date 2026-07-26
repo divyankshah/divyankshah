@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Divyank Sameer Shah 👋</h1>
-  <h3 align="center">Software Engineer — Full-Stack & Cloud Systems</h3>
+  <h3 align="center">Software Engineer</h3>
 
   <p align="center">
     <b>M.Sc. Computer Science @ University of Passau</b> • <b>Ex-TIAA</b> • <b>4.5+ Years as a Full-Stack Software Developer</b>
