@@ -37,9 +37,6 @@ I'm an adaptable, curious engineer who likes turning ambiguous problems into sof
 I'm currently a Master's student in Computer Science at the University of Passau, using the time to go deeper into system design, cloud architecture, and where AI fits into how we build software next.
 
 - 🏗️ **Interests:** Enterprise architecture, cloud platforms, and agentic AI-assisted development
-- 🌍 **Hobbies:** Travelling and teaching yoga
-
-**Currently open to full-stack and backend engineering roles across Germany and the EU.**
 
 👉 **Full experience, project write-ups, and contact info: [divyankshah.github.io](https://divyankshah.github.io).**
 
