@@ -68,3 +68,11 @@ I'm currently a Master's student in Computer Science at the University of Passau
 <img src="https://skillicons.dev/icons?i=docker,git,maven,githubactions" alt="Docker, Git, Maven, GitHub Actions" />
 
 <sub>Also working with: REST APIs, Microservices, NLP, Explainable AI, Dense Passage Retrieval, RAG fundamentals</sub>
+
+---
+
+### ✅ Merged Pull Requests
+
+| Project | Contribution | PR |
+| --- | --- | --- |
+| **Apache Jena** | Fixed `ArrayByteBufferPool` sizing in Fuseki's Jetty `Server`, preventing continuous DirectMemory churn under load. | [PR #4088](https://github.com/apache/jena/pull/4088) |
