@@ -73,3 +73,4 @@ I'm currently a Master's student in Computer Science at the University of Passau
 | Project | Contribution | PR |
 | --- | --- | --- |
 | **Apache Jena** | Fixed `ArrayByteBufferPool` sizing in Fuseki's Jetty `Server`, preventing continuous DirectMemory churn under load. | [PR #4088](https://github.com/apache/jena/pull/4088) |
+| **Apache ShardingSphere** | Added Doris SQL parsing support for `ALTER WORKLOAD GROUP ... PROPERTIES(...)` and unit-suffixed `ALTER DATABASE ... SET DATA QUOTA`. | [PR #39333](https://github.com/apache/shardingsphere/pull/39333) |
